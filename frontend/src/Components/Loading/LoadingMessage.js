@@ -20,6 +20,9 @@ const messages = [
   'Don\'t forget to tip your waitress',
   'Apply directly to the forehead',
   'Loading Battlestation'
+  'We never really grow up, we only learn how to act in public.',
+  'Knowledge is knowing a tomato is a fruit; Wisdom is not putting it in a fruit salad.',
+  'A good movie always makes me wish it was a series, A good series makes me wonder where saturday went...',
 ];
 
 let message = null;
